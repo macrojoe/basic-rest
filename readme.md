@@ -40,10 +40,10 @@ It should return an activity to do and stop being bored and start being awesome.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 *  [NodeJS](https://nodejs.org/)
 *  [ExpressJS](https://expressjs.com/)
 *  [Bored Api](https://www.boredapi.com/)
+
 ### Tested with
 
 *  [Jest](https://jestjs.io/)
