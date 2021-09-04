@@ -26,8 +26,8 @@
 ### How the program should work
 
 The program should implement a REST Api that has 2 endpoints:
-    Hello World
-    Bored API with an activity to do
+*  Hello World
+*  Bored API with an activity to do
 
 ### How the program should be executed  
 Having received a petition to these endpoints it should return:
@@ -36,7 +36,7 @@ Having received a petition to these endpoints it should return:
 It should return "Hello World" in the response with a 200 OK status.
 
 #### /bored
-It should return an activity to do and stop being bored and start being awesome.
+It should return an activity to do so you can stop being bored and start being awesome. 
 
 ### Built With
 
