@@ -82,7 +82,7 @@ npm install
 In order to get the app running, in the project's root run
 
  ```sh
-node app.js
+node index.js
 ```   
   
 ## Testing
