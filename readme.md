@@ -35,8 +35,10 @@ Having received a petition to these endpoints it should return:
 #### /greet
 It should return "Hello World" in the response with a 200 OK status.
 
-#### /bored
-It should return an activity to do so you can stop being bored and start being awesome. 
+#### /bored/
+It should return an activity with a 200 OK status, in text format, so you can stop being bored and start being awesome. 
+
+Example: "Watch a movie you'd never usually watch"
 
 ### Built With
 
