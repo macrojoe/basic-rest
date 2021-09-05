@@ -94,14 +94,6 @@ In order to get the app tested, in the project's root run
 npm run test
 ```   
 
-There are 2 types of tests, unit tests and integration tests, both of them are located in their folders
-
-### Unit testing
-
-#### To be done
-
-### Integration testing
-
 There are 2 tests, each one of them test one end point of the API.
 
 * /greet test
