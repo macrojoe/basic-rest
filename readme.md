@@ -98,8 +98,15 @@ There are 2 types of tests, unit tests and integration tests, both of them are l
 
 ### Unit testing
 
+#### To be done
+
 ### Integration testing
 
+There are 2 tests, each one of them test one end point of the API.
 
+* /greet test
+It should return "Hello World" with 200 status
 
+* /activity test
+It should return a string with 200 status
 
