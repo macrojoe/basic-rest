@@ -97,8 +97,10 @@ npm run test
 There are 2 tests, each one of them test one end point of the API.
 
 * /greet test
-    It should return "Hello World" with 200 status
+
+It should return "Hello World" with 200 status
 
 * /activity test
-    It should return a string with 200 status
+
+It should return a string with 200 status
 
